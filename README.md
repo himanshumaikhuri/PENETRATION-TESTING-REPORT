@@ -119,11 +119,12 @@ In the network scanning activity, I used Zenmap to discover active hosts, MAC ad
 
 Screenshots collected as evidence during the activities are stored in the `/screenshots` directory:
 
-* `screenshots01-whois-whatweb.png`
-* `screenshots02-nslookup-curl.png`
-* `screenshots03-wafw00f-dnsrecon.png`
-* `screenshots04-zenmap-scan-results.png`
-* `screenshots05-zenmap-topology.png`
+* ![WHOIS and WhatWeb](screenshots/01-whois-whatweb.png)
+* ![Nslookup and Curl](screenshots/02-nslookup-curl.png)
+* ![Wafw00f and DNSRecon](screenshots/03-wafw00f-dnsrecon.png)
+* ![Zenmap Scan Results](screenshots/04-zenmap-scan-results.png)
+* ![Zenmap Topology](screenshots/05-zenmap-topology.png)
+
 
 ---
 *- End of Report -*
